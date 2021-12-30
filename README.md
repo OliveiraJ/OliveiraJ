@@ -20,8 +20,8 @@
 <div>
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-       <img height=180em src="https://github-readme-stats.vercel.app/api?username=OliveiraJ&count_private=true&show_icons=true&theme=bear&hide_border=true&include_all_commits=true" />
-      <img height=180em src="https://github-readme-streak-stats.herokuapp.com?user=OliveiraJ&theme=bear&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+       <img height=160em src="https://github-readme-stats.vercel.app/api?username=OliveiraJ&count_private=true&show_icons=true&theme=bear&hide_border=true&include_all_commits=true" />
+      <img height=160em src="https://github-readme-streak-stats.herokuapp.com?user=OliveiraJ&theme=bear&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
     </a>
   </div>
   <div>
