@@ -27,7 +27,7 @@
   <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
    <img  height=180em aling=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraJ&layout=compact&theme=bear&langs_count=10&hide_border=true" />
-   <img  height=180em aling=center src="https://github-readme-stats.vercel.app/api/wakatime?username=OliveiraJ" />
+   <img  height=180em aling=center src="https://github-readme-stats.vercel.app/api/wakatime?username=JordanOliveira" />
   </a>
 </div>
 </div>
