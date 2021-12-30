@@ -16,20 +16,15 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jordansilva102@gmail.com)
 
 
-
 <div>
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-       <img height=160em src="https://github-readme-stats.vercel.app/api?username=OliveiraJ&count_private=true&show_icons=true&theme=bear&hide_border=true&include_all_commits=true" />
-      <img height=160em src="https://github-readme-streak-stats.herokuapp.com?user=OliveiraJ&theme=bear&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+       <img height=160em src="https://github-readme-stats.vercel.app/api?username=OliveiraJ&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true" />
+      <img height=159em src="https://github-readme-streak-stats.herokuapp.com?user=OliveiraJ&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+      <img height=160em src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraJ&layout=compact&theme=chartreuse-dark&langs_count=10&hide_border=true"/>
+   <img height=160em width=474em src="https://github-readme-stats.vercel.app/api/wakatime?username=JordanOliveira&theme=chartreuse-dark&hide_border=true" />
     </a>
   </div>
-  <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img  height=160em src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraJ&layout=compact&theme=bear&langs_count=10&hide_border=true" />
-   <img  height=165em width=474em src="https://github-readme-stats.vercel.app/api/wakatime?username=JordanOliveira&theme=bear&hide_border=true" />
-  </a>
-</div>
 </div>
 
 <!--
