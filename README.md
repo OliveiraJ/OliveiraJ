@@ -2,7 +2,7 @@
 
 <div>
   <p>
-    <b>Welcome to my profile, my name is Jordan, I currently study Computer Engineering at UFRB, I have been venturing myself into the Front-end world, and I like to try some things with Golang.</b>
+    <b>Welcome to my profile, my name is Jordan, I currently study Computer Engineering at UFRB, I have been venturing myself into the Front-end world, and I like to try some things with Golang.</b> </br>
     Looking for an opportunity to learn more and gain experience, to make part of something bigger and make full use of what i am learning, so don't hesitate to contact me on any of my social media. :)
   </p>
   <p>
@@ -24,9 +24,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jordansilva102@gmail.com)
 
 <div>
-  <div>
-  [![Reactjs Badge](https://img.shields.io/badge/React-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OliveiraJ)
-  </div>
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
        <img height=160em src="https://github-readme-stats.vercel.app/api?username=OliveiraJ&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true" />
