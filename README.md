@@ -6,13 +6,14 @@
     Looking for an opportunity to learn more and gain experience, to make part of something bigger and make full use of what i am learning, so don't hesitate to contact me on any of my social media. :)
   </p>
   <p>
-    Thanks for visiting.
-  </p>
-  <p>
     Working with Angular in a college project and dedicating most of my time to learn React.
   </p>
   <p>
-    Below you can find some information about me.
+    Thanks for visiting.
+  </p>
+  
+  <p>
+    Below you can find some info about me.
   </p>
 </div>
 
@@ -29,7 +30,6 @@
        <img height=160em src="https://github-readme-stats.vercel.app/api?username=OliveiraJ&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true" />
       <img height=159em src="https://github-readme-streak-stats.herokuapp.com?user=OliveiraJ&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
       <img height=160em src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliveiraJ&layout=compact&theme=chartreuse-dark&langs_count=10&hide_border=true"/>
-   <img height=160em width=474em src="https://github-readme-stats.vercel.app/api/wakatime?username=JordanOliveira&theme=chartreuse-dark&hide_border=true" />
     </a>
   </div>
 </div>
