@@ -24,14 +24,14 @@
 [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/JoOliveira)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jordansilva102@gmail.com)
 </br>
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-121723?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
-[![React Badge](https://img.shields.io/badge/React-121723?style=for-the-badge&logo=react&logoColor=61DAFB)](https://pt-br.reactjs.org/)
-[![Angular Badge](https://img.shields.io/badge/Angular-121723?style=for-the-badge&logo=angular&logoColor=DD0031)](https://angular.io/)
-[![Vue.js Badge](https://img.shields.io/badge/Vue.js-121723?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
-[![CSS3 Badge](https://img.shields.io/badge/CSS3-121723?style=for-the-badge&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![Sass Badge](https://img.shields.io/badge/Sass-121723?style=for-the-badge&logo=sass&logoColor=CC6699)](https://sass-lang.com/)
-[![Docker Badge](https://img.shields.io/badge/Docker-121723?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com/)
-[![Linux Badge](https://img.shields.io/badge/Linux-121723?style=for-the-badge&logo=linux&logoColor=FCC624)](https://www.linux.org/pages/download/)
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-252737?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![React Badge](https://img.shields.io/badge/React-252737?style=for-the-badge&logo=react&logoColor=61DAFB)](https://pt-br.reactjs.org/)
+[![Angular Badge](https://img.shields.io/badge/Angular-252737?style=for-the-badge&logo=angular&logoColor=DD0031)](https://angular.io/)
+[![Vue.js Badge](https://img.shields.io/badge/Vue.js-252737?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
+[![CSS3 Badge](https://img.shields.io/badge/CSS3-252737?style=for-the-badge&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![Sass Badge](https://img.shields.io/badge/Sass-252737?style=for-the-badge&logo=sass&logoColor=CC6699)](https://sass-lang.com/)
+[![Docker Badge](https://img.shields.io/badge/Docker-252737?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com/)
+[![Linux Badge](https://img.shields.io/badge/Linux-252737?style=for-the-badge&logo=linux&logoColor=FCC624)](https://www.linux.org/pages/download/)
 
 
 
