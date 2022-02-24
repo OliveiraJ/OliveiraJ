@@ -25,6 +25,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jordansilva102@gmail.com)
 
 <div>
+  ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=ReactJS&logoColor=007396)
+</div>
+
+<div>
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
        <img height=160em src="https://github-readme-stats.vercel.app/api?username=OliveiraJ&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true" />
