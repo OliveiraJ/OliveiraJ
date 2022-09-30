@@ -25,7 +25,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jordansilva102@gmail.com)
 </br>
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-252737?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
-[![PHP Badge](https://img.shields.io/badge/PHP-252737?style=for-the-badge&logo=php&logoColor=61DAFB)](https://www.php.com/)
+[![PHP Badge](https://img.shields.io/badge/PHP-252737?style=for-the-badge&logo=php&logoColor=61DAFB)](https://www.php.net/)
 [![React Badge](https://img.shields.io/badge/React-252737?style=for-the-badge&logo=react&logoColor=61DAFB)](https://pt-br.reactjs.org/)
 [![Angular Badge](https://img.shields.io/badge/Angular-252737?style=for-the-badge&logo=angular&logoColor=DD0031)](https://angular.io/)
 [![Vue.js Badge](https://img.shields.io/badge/Vue.js-252737?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
